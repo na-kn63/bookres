@@ -5,15 +5,15 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
 
-* System dependencies
+* System dependencies ok
 
-* Configuration
+* Configuration ok
 
-* Database creation
+* Database creation ok
 
-* Database initialization
+* Database initialization ok
 
 * How to run the test suite
 
